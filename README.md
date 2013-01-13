@@ -7,6 +7,18 @@ Contains programming notes, resources and links etc. Its using Jekyll static sit
 
 Topcoder
 --------
-### SRM 565
+
+### SRM 563 ###
+ * FoxAndHandleEasy
+    * 7-Jan-2013: Python (Working)
+    
+### SRM 564 ###
+  * FauxPalindrome
+    * 7-Jan-2013: Python (Working)
+    
+### SRM 565 ### 
   * ValueHistogram 
-    * 1-Jan-2013: Python (Working), C++ (Partial)   
+    * 1-Jan-2013: Python (Working), C++ (Partial)
+  * MonsterValley2
+    * 13-Jan-2013: Python (Working)
+
