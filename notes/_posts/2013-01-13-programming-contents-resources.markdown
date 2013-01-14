@@ -12,6 +12,7 @@ category: posts
 * [Quora Topic: Topcoder](http://www.quora.com/TopCoder)
 * [Quora Topic: Algorithms](http://www.quora.com/Algorithms)
 * [USACO](http://www.usaco.org/)
+* [Programming Challenge](http://www.programming-challenges.com/pg.php?page=studenthome)
 
 ### Implementation Skills ###
 * [Google's C++ Class](https://developers.google.com/edu/c++/)
