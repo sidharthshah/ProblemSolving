@@ -13,6 +13,7 @@ category: posts
 * [Quora Topic: Algorithms](http://www.quora.com/Algorithms)
 * [USACO](http://www.usaco.org/)
 * [Programming Challenge](http://www.programming-challenges.com/pg.php?page=studenthome)
+* [MIT Introduction to Algorithms](http://www.catonmat.net/series/mit-introduction-to-algorithms)
 
 ### Implementation Skills ###
 * [Google's C++ Class](https://developers.google.com/edu/c++/)
