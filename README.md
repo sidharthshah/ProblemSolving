@@ -5,6 +5,12 @@ Notes
 -----
 Contains programming notes, resources and links etc. Its using Jekyll static site genrator
 
+ACM
+---
+
+### [3n + 1](http://www.spoj.com/problems/PROBTNPO/) ###
+* 15-Jan-2013: Python (Working)
+
 Topcoder
 --------
 
