@@ -23,3 +23,6 @@ Part II: Advanced Uses ](http://community.topcoder.com/tc?module=Static&d1=tutor
 
 ### Math Skills ###
 * [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
+* [Coure: Math Notes Lecture -- Stanford's Introduction to Competetive Programming](http://www.stanford.edu/class/cs97si/02-mathematics.pdf)
+* [Youtube: Gaussian Elimination](http://www.youtube.com/watch?v=2j5Ic2V7wq4)
+* 
