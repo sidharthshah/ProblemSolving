@@ -5,6 +5,7 @@ category: posts
 --- 
 
 ### Algorithms ###
+* [CodeChef Editorials](http://discuss.codechef.com/tags/editorial/)
 * [Topcoders Tutorials](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=alg_index)
 * [List of Algorithms on Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms)
 * [Quora Board: Algorithmic Programming Problem](http://www.quora.com/Nikhil-Garg/Algorithmic-Programming-Problems)
